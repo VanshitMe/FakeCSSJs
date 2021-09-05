@@ -1,0 +1,2 @@
+uglifyjs js/jquery.js --compress --output CSS_JS_COMRESSED/jquery.min.js
+uglifyjs js/tween-max.js js/jquery-address.js js/nprogress/nprogress.js js/jquery-isotope.js js/imagesloaded.js js/jquery-fitvids.js js/jquery.magnific-popup/jquery-magnific-popup.js js/jquery-easing.js js/jquery-validate.js js/resize-sensor.js js/jquery-sticky-sidebar.js js/main.js --compress --mangle --toplevel --output CSS_JS_COMRESSED/app.min.js
